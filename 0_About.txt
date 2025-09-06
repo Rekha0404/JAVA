@@ -1,0 +1,32 @@
+History of Java
+
+In 1991, Sun Microsystems engineer James Gosling and his team (called the Green Team) started the Green Project.
+The aim was to make a smart remote control, but the project failed.
+After that, they created a new programming language and first named it Oak (1991–1995), because there was an Oak tree outside Sun Microsystems’ office.
+But the name Oak was already registered, so they called it Silk (because of smoothness).
+Later, they decided the final name Java, inspired by the Java Island in Indonesia, from where the they drank popular coffee.
+   - That’s why the coffee cup logo was chosen.
+In 1995, Sun Microsystems officially released Java.
+Java is based on the principle of WORA (Write Once, Run Anywhere).
+
+
+Features of Java
+
+Portability – Java programs can run on any machine because of JVM (heart of java).
+Robustness – Strong memory management and exception handling make it reliable.
+Garbage Collector – Automatically removes unused objects from memory.
+Platform Independent – Same code can work on different platforms.
+Object-Oriented – Everything in Java is treated as objects.
+
+
+Family Members
+
+JVM (Java Virtual Machine)
+   - Converts bytecode into machine code.
+   - Makes Java platform-independent.
+JRE (Java Runtime Environment)
+   - Provides libraries and JVM to run Java applications.
+   - Does not include development tools.
+JDK (Java Development Kit)
+   - A complete package for developing Java programs.
+   - Includes JRE + Compiler + Development tools.
